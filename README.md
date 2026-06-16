@@ -113,9 +113,44 @@ This project aims to:
 - Deploy scalable AI-driven intervention systems.
 
 ---
+assets/diagrams/system-architecture
 
+AI-Powered Credit Card Delinquency Risk Analysis and Collections Strategy
+Customer Data
+      │
+      ▼
+Data Analysis (EDA)
+      │
+      ▼
+Risk Assessment Framework
+      │
+      ▼
+Risk Classification
+(Low / Medium / High)
+      │
+      ▼
+AI Recommendation Engine
+      │
+      ▼
+Collections Strategy
+---
+ai-credit-card-delinquency-risk-analysis/
+│
+├── README.md
+│
+├── reports/
+│   ├── 01_EDA_Report.md
+│   ├── 02_Risk_Assessment_Framework.md
+│   ├── 03_AI_Collections_Strategy.md
+│   └── 04_Responsible_AI_Framework.md
+│
+├── assets/
+│   └── diagrams/
+│
+└── certificate/
+    └── forage-certificate.pdf
+---
 ## Project Author
 
 Gideon Raj
 
-AI-Powered Credit Card Delinquency Risk Analysis and Collections Strategy
