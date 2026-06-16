@@ -133,7 +133,7 @@ AI Recommendation Engine
       │
       ▼
 Collections Strategy
----
+
 ai-credit-card-delinquency-risk-analysis/
 │
 ├── README.md
@@ -149,7 +149,7 @@ ai-credit-card-delinquency-risk-analysis/
 │
 └── certificate/
     └── forage-certificate.pdf
----
+
 ## Project Author
 
 Gideon Raj
